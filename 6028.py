@@ -1,3 +1,3 @@
-a = input()
-a = int(a)
-print('%X',%a)
+n = input()
+n = int(n)
+print('%X',%n)
